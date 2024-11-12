@@ -46,7 +46,7 @@ export const Botao = styled.button`
   padding: 8px 12px;
   border: none;
   cursor: pointer;
-  background-color: #${variaveis.azulEscuro};
+  background-color: ${variaveis.azulEscuro};
   border-radius: 8px;
   margin-right: 8px;
 `
